@@ -1,6 +1,9 @@
 /*font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;*/
-
+.hero{
+    background-image: url("/images/main.jpg");
+    background-size: cover;
+ }
 
 h1{
     font-family: 'Playfair Display', serif;
